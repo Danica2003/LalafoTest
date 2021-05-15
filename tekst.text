@@ -1,0 +1,21 @@
+PS C:\Users\Danica\Desktop\zadatak7b> py .\4.prosecnaVrednost2.py      
+Na Lalafo ima ukupno sukanja sa istaknutom cenom:  4425
+Na Lalafo ima ukupno sukanja 4545
+Na sajtu Lalafo ima sukanja bez cene: 120
+Najjeftinija suknja iznosi samo:  50 dinara.
+Srednja vrednost suknje u proseku je oko:  9775.0 dinara, mada upadaju u opseg izmedju 5001 i 10000 dinara a njih ima ukupno 17
+Najskuplja suknja iznosi:  19500 dinara
+Na sajtu Lalafo u opsegu cena od 1-500 dinara ima 2102 sukanja sto je procentualno:
+47.50282485875706
+Na sajtu Lalafo u opsegu cena od 501-1000 dinara ima 1341 sukanja sto je procentualno:
+30.305084745762713
+Na sajtu Lalafo u opsegu cena od 1001-5000 dinara ima 962 sukanja sto je procentualno:
+21.740112994350284
+Na sajtu Lalafo u opsegu cena od 5001-10000 dinara ima 17 sukanja sto je procentualno:
+0.384180790960452
+Na sajtu Lalafo u opsegu cena od 10001-15000 dinara ima 1 sukanja procentualno:
+0.022598870056497175
+Na sajtu Lalafo u opsegu cena od 15001-20000 dinara ima sukanja  2 sto je procentualno:
+0.04519774011299435
+ZAKLJUCAK JE DA DANAS SVAKO MOŽE DA BUDE RIBA U MINICU I DA SU CENE PRISTUPACNE :)
+PS C:\Users\Danica\Desktop\zadatak7b>
