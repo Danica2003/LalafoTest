@@ -1,0 +1,10 @@
+
+sta_trazite_css_s='div.main-layout.desktop.css-x2hto div.page.listing-page.desktop.css-0:nth-child(2) div.listing-page-desktop__wrapper.css-shjcvg:nth-child(1) div.listing-search-menu.desktop.visible:nth-child(2) section.listing-page__top.css-1jqh0ix div.listing-page__top-container div.listing-page__top-row div.mainSearchWrapper.filterSearch.desktop.desktop div.mainSearch > input.mainSearchInput'
+
+dugme_pretraga_css_s='div.main-layout.desktop.css-x2hto div.page.listing-page.desktop.css-0:nth-child(2) div.listing-page-desktop__wrapper.css-shjcvg:nth-child(1) div.listing-search-menu.desktop.visible:nth-child(2) section.listing-page__top.css-1jqh0ix div.listing-page__top-container div.listing-page__top-row div.mainSearchWrapper.filterSearch.desktop.desktop div.mainSearch button.mainSearchBtn span.icon.large.secondary > svg:nth-child(1)'
+
+filter_dugme_br_artikala_css_s='div.main-layout.desktop.css-x2hto div.page.listing-page.desktop.css-0:nth-child(2) div.listing-page-desktop__wrapper.css-shjcvg:nth-child(1) div.listing-feed__filter-wrapper.css-1ukcmto:nth-child(3) div.listing-feed__filter-footer > button.Button.medium.primary.info-filter-button:nth-child(2)'
+
+opseg_cena_min='div.main-layout.desktop.css-x2hto div.page.listing-page.desktop.css-0:nth-child(2) div.listing-page-desktop__wrapper.css-shjcvg:nth-child(1) div.listing-feed__filter-wrapper.css-1ukcmto:nth-child(3) div.listing-feed__filter-controlls-wrapper div.filter-controll__component-input.range-type.desktop div.filter-controll__row:nth-child(2) div.filter-controll__controll-wrapper:nth-child(1) > input.filter-controll__input'
+opseg_cena_max='div.main-layout.desktop.css-x2hto div.page.listing-page.desktop.css-0:nth-child(2) div.listing-page-desktop__wrapper.css-shjcvg:nth-child(1) div.listing-feed__filter-wrapper.css-1ukcmto:nth-child(3) div.listing-feed__filter-controlls-wrapper div.filter-controll__component-input.range-type.desktop div.filter-controll__row:nth-child(2) div.filter-controll__controll-wrapper:nth-child(2) > input.filter-controll__input'
+
